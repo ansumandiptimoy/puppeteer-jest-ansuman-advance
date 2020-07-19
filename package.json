@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-jest-ansuman-advance",
+  "version": "1.0.0",
+  "description": "advance puppeteer framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansumandiptimoy/puppeteer-jest-ansuman-advance.git"
+  },
+  "author": "ansuman.diptimoy@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansumandiptimoy/puppeteer-jest-ansuman-advance/issues"
+  },
+  "homepage": "https://github.com/ansumandiptimoy/puppeteer-jest-ansuman-advance#readme",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "puppeteer": "^5.2.0"
+  }
+}
